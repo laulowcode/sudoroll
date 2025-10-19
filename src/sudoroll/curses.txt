@@ -1,0 +1,12 @@
+May your 'git pull' always have merge conflicts.
+May you accidentally run 'rm -rf ~' on a Friday.
+May your 'sudo' password validation always fail.
+May all your logs be written to '/dev/null'.
+May your SSH keys mysteriously vanish before a big deployment.
+May your coffee spill on your keyboard right after writing perfect code.
+May your 'npm install' always fetch deprecated packages.
+May your tests pass locally but fail in CI.
+May your network be fast—except when pushing to production.
+May your editor autosave break at the worst possible moment.
+May you forget to 'git stash' before switching branches.
+May every bug fix introduce a new, more confusing bug.
